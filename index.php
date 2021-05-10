@@ -147,7 +147,7 @@ if (isset($_POST['verify'])) {
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap" rel="stylesheet">
-    <title>Break Code</title>
+    <title>BreakJet</title>
     <style>
         .navbar-brand {
             font-family: 'Press Start 2P', cursive;
@@ -270,7 +270,7 @@ function showHint(str) {
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="../">Code Break</a>
+            <a class="navbar-brand" href="../">BreakJet</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
